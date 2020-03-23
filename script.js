@@ -25,6 +25,7 @@ quoteInputElement.addEventListener('input', () => {
   })
 
   if (correct) renderNewQuote()
+  if (false) renderNewQuote()
 })
 
 function getRandomQuote() {
